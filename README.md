@@ -39,4 +39,4 @@ This is a simple weather API that provides weather information for a given count
 
 ## Project URL
 
-[Todo List API](https://roadmap.sh/projects/weather-api-wrapper-service)
+[Weather API](https://roadmap.sh/projects/weather-api-wrapper-service)
